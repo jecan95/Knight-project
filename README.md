@@ -1,1 +1,7 @@
 # Knight-project
+
+## The statement of the project in English
+The objective of this C# project using the WinForms graphical application is to create a program that allows a person to play as a knight that traverses the entire chessboard without passing over the same square twice. The player can use a simulation to help them. To achieve this, we will use Euler's heuristic method which involves selecting the escape square at step N+1 that has the minimum number of possible escape squares at step N+2. The program should be able to handle cases where the knight reaches a dead end. The application will start by displaying an empty chessboard with the knight at its starting point. Finally, the program should allow the user to choose the starting coordinates or have them randomly generated.
+
+## L'énoncé du projet en francais
+L'objectif de ce projet en C# avec l'application graphique WinForms est de créer un programme qui permettra à une personne de jouer un cavalier qui parcourt l'ensemble de l'échiquier sans passer deux fois sur la même case. Le joueur pourra s'aider d'une simulation. Pour cela, nous utiliserons une méthode heuristique d'Euler qui consiste à choisir la case de fuite à l'étape N+1 qui présente le minimum de cases de fuite possibles à l'étape N+2. Le programme doit être en mesure de gérer les cas où le cavalier tombe dans une impasse. L'application commencera par afficher un échiquier vide et le cavalier à son point de départ. Enfin, le programme doit permettre à l'utilisateur de choisir les coordonnées de départ ou de les tirer au sort.
